@@ -1,2 +1,4 @@
 /node_modules
+/sample-langgraph-code-examples
 dist
+.env

@@ -24,5 +24,17 @@
     "prettier": "^3.5.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@aws-sdk/credential-provider-node": "^3.787.0",
+    "@langchain/community": "^0.3.41",
+    "@langchain/core": "^0.3.45",
+    "@langchain/langgraph": "^0.2.65",
+    "@langchain/openai": "^0.5.6",
+    "@smithy/eventstream-codec": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "eventsource-parser": "^3.0.1",
+    "langchain": "^0.3.23",
+    "uuid": "^11.1.0"
   }
 }
